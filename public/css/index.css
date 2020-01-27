@@ -1,4 +1,4 @@
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 600px) {
 		header {
 				width: 100%;
 				background-color: #fff;
@@ -7,5 +7,19 @@
 				width: 100px;
 				margin: 0 auto;
 				color: #bfbfbf;
+		}
+		main {
+				width: 100%;
+		}
+		main .main__header {
+				width: 100%;
+		}
+		main .main__header h2 {
+				width: 200px;
+				margin: 0 auto;
+		}
+		main .main__header h2 img {
+				width: 200px;
+				margin: 0 auto;
 		}
 }
